@@ -373,7 +373,7 @@ int main(){
         }
     }
     return 0;
-}
+} 
 // largest and smallest number
 #include<stdio.h>
 #include<math.h>
@@ -398,7 +398,8 @@ int main() {
     else
     printf("%d smallest number\n",c);
     return 0;
-}
+}*/
+/*Square root 
 #include<stdio.h>
 #include<math.h>
 int main(){
